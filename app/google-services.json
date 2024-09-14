@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "472763367651",
+    "project_id": "flutter-attendy",
+    "storage_bucket": "flutter-attendy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472763367651:android:4fb6f1327588f6cae505d6",
+        "android_client_info": {
+          "package_name": "com.example.attendy_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472763367651-lnj93gp82uf58v0eppg4u94tt7ei2a36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendy_flutter",
+            "certificate_hash": "74198db579fcfcbad0abbb1a8ee0645b6e139a82"
+          }
+        },
+        {
+          "client_id": "472763367651-pi0126ff21it04eti58a3ktoj4smlpkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCF0HvTDsFUzxrCAL5j2g9xnlnYjFg8ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472763367651-pi0126ff21it04eti58a3ktoj4smlpkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
